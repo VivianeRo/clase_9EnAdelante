@@ -1,12 +1,14 @@
 
 import './App.css'
+import { Card } from './components/Card'
 
 function App() {
   
 
   return (
     <div>
-       <h1>Funcionando</h1>
+       <h3>Clase Practica nº9</h3>
+       <Card />
     </div>
   )
 }
